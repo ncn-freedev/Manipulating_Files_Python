@@ -1,3 +1,2 @@
-Esse é um arquivo de teste para manipulcao de arquivos com python
-
-Esse é um arquivo de texte para manipulção de arquivos com python
+Esse texto foi inserido por uma função write no arquivo!
+Esse é o novo dado escrito no arquivo
